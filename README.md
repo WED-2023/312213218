@@ -1,10 +1,10 @@
-#Nikola Tesla Landing Page
-###Created by Noam Cohen - 312213218
+# Nikola Tesla Landing Page
+### Created by Noam Cohen - 312213218
 
-##Overview
+## Overview
 This project is an HTML and CSS only landing page dedicated to Nikola Tesla. It provides a comprehensive overview of Nikola Tesla’s life and achievements.
 
-##Features
+## Features
 * Fixed Top Navigation Bar: A navigation bar that stays at the top of the page as you scroll.
 * Photo Gallery: A collection of images related to Nikola Tesla.
 * QR Code: A QR code that links to the landing page.
