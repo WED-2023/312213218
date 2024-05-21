@@ -1,11 +1,13 @@
-# An HTML and CSS only landing page about Clint Eastwood.
-by Gil Michalovich 315041426
-assignment1-GilMich created by GitHub Classroom
+# Nikola Tesla Landing Page
+### Created by Noam Cohen - 312213218
 
-An HTML and CSS only landing page about Clint Eastwood.
+## Overview
+This project is an HTML and CSS only landing page dedicated to Nikola Tesla. It provides a comprehensive overview of Nikola Tesla’s life and achievements.
 
-in this project, I have made a landing page about clint eastwood, which include a fixed to top navigation bar, photo gallery, qr code that sends to the web page.
-The page includes an embeded youtube video, google fonts and more...
-
-In addition the page includes a html form that sends an Email using the Windows Outlook, which has a dropdown menu of emojis to add to the email message content.
-
+## Features
+* Fixed Top Navigation Bar: A navigation bar that stays at the top of the page as you scroll.
+* Photo Gallery: A collection of images related to Nikola Tesla.
+* QR Code: A QR code that links to the landing page.
+* Embedded YouTube Video: A video embedded directly on the page.
+* Google Fonts: Custom fonts from Google Fonts to enhance the visual appeal.
+* Contact Form: An HTML form that sends an email using Windows Outlook, including a dropdown menu of emojis to add to the email message content.
